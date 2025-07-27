@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 30
+  key: some_random_key_here
+  name: ai_coach_cookie
+credentials:
+  usernames:
+    wasiqirshad2666:
+      email: wasiqirshad264@gmail.com
+      name: Muhammad Wasiq Ansari
+      password: $2b$12$N6EBL2PQY8TrH0oOf.fr1.t5EYNmerbclahQetVmIK/ndP5X/Cxmm
